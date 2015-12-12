@@ -7,7 +7,7 @@ IDENTIFIER := com.stylemac.SourceKittenDaemon
 
 APPLICATION_FOLDER := /Applications/SourceKittenDaemon.app
 BINARIES_FOLDER := /bin
-FRAMEWORKS_FOLDER := /lib/SourceKittenDaemon.Frameworks
+FRAMEWORKS_FOLDER := /Frameworks/SourceKittenDaemon.Frameworks
 
 default: $(DIST)
 
